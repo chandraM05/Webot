@@ -1,0 +1,157 @@
+hindu,christian,muslim,thank
+venues	photographers	makeup	wear groom wear	decorators	cards	favors	jewellery	accessories	trousseau packers	-cakes	mehendi artists	sangeet choreographers	djs		catering	videography	
+'marriage','wedding' , 'nuptial', 'matrimony'
+reception,sangeet,mehendi,engagement,
+'place of wedding','venue','place of marriage','place of nuptials','place'
+'jockey','dj','music','djs','jockies'
+'card','invitation'
+'cake','pastry','photo','photography','shutterbug','photographer','caterer','food','buffet','dinner','lunch','catering','video','coverage','videography','makeup','parlour','beautician'
+'decoration','decorator','jewellery','bangel','necklace','ring','bus','car','taxi','transportation','flights','aeroplanes','transport',choreographer,'accessories','purse','shoe','accomodation','stay','hotel','lodge','gift','trousseau','wrapper','clothing','wear','shopping malls','shopping','delhi','mumbai','kolkata','chennai','pune','bangalore','hyderabad','goa','jaipur','chandigarh','ahmedabad','agra','ambala','amritsar','aurangabad','bhopal','bhubaneswar','coimbatore','dehradun','guwahati','indore','jaisalmer','jalandhar','jodhpur','kerala','lonavala','lucknow','ludhiana','madurai','mangalore','mussoorie','mysore','nagpur','nashik','patiala','pushkar','raipur','ranchi','shimla','siliguri','silvassa','srinagar','surat','udaipur','vodadara','varanasi','visakhapatanam','puri','ooty','coorg','pondicherry','kanpur','allahabad']
+month=['jan','feb','march','april','may','june','july','aug','sep','oct','nov','dec']
+﻿Hello x>greetings
+hi>greetings
+hello>greetings
+how r u doing>greetings
+hiee>greetings
+hows u>greetings
+good morning>greetings
+gm>greetings
+hiee, How are you>greetings
+Hello , MY is xyz>greetings
+Hey hi>greetings
+Hey , hiee>greetings
+How are you doing>greetings
+there is a occasion in my house>info
+budget is X>info
+approximate budget is X>info
+budget of the occasion is X>info
+i want to plan a occasion in march in city>info
+i want to plan a occasion on date in city>info
+a occasion is to planed on date in city>info
+a occasion is to planed in month in city>info
+iam planning a occasion in month in city with budget around amount>info
+iam planning a occasion in month in city>info
+iam planning a occasion for my daughter>info
+iam planning a occasion for my son>info
+iam planning a occasion with budget around amount>info
+iam planning for a hindu occasion>info
+iam planning for a muslim occasion>info
+iam planning for a christian occasion>info
+i need a plan for my sons occasion>info
+plan a occasion in around 100000>info
+i need a plan for my daughter’s occasion>info
+i need to a plan for occasion>info
+is it within budget>yn
+are the ratings good>yn
+is the service reliable>yn
+is the quality good>yn
+do u like >yn
+which one will you suggest>sug
+what is your choice>sug
+which is best suited>sug
+iam searching for some suitable venues in the city>req
+what are the best venues for the event in the city>req
+suggest few good venues within the budget>req
+venues around city>req
+are these venues affordable>yn
+are these venues good>yn
+any other venues>req
+any good venues>req
+suggest some good venues>req
+what are the venues available on data>req
+good rated venues in town>req
+do you provide any music facilities>yn
+suggest good music service providers>req
+any dj’s in town>req    
+suggest few good dj’s>req
+are there any dj’s for the event>req
+i would like to have music facility>req
+i would like have dj in the event>req
+i would like to have x music>info
+are there any rock music providers in town>req
+here are the list of suggestions ,will update if any>info
+high rated dj’s>req
+suggest good choreographers>req
+any choreography service>req
+do you know good choreographers in town>req
+how about choreographers>req
+do u provide choreography services>yn
+what are good shopping malls in the city>req
+are there any shopping centers near by>req
+what are good shopping centers in the city>req
+suggest few good shopping centers>req
+suggest few good shopping malls>req
+any designer stores for shopping>req
+where can i get wedding clothes>req
+good shopping centers within budget>req
+shopping centers in town>req
+list of shopping centers near the hotel>req
+clothing facility>req
+where can i get good bridal wear>req
+shopping centers for the bride>req
+shopping centers for the groom>req
+suggest shopping centers for groom>req
+suggest shopping centers for bride>req
+where can i get good groom wear>req
+any designer stores for bridal shopping>req
+any designer stores for groom shopping>req
+are there any stores for bridal clothings>req
+are there any stores for groom clothings>req
+suggest some good caterers in city>req
+who are all good caterers in city>req
+Who are best caterers in CITY for continental food?>req
+List best caterers in CITY for continental food>req
+we want pure veg menu.>req
+Non-veg is also preferable>info
+We want good caterers who can serve indian and continental food .>req
+Our budget is 100000>info
+What kinds of transportation are available from CITY to CITY?>req
+What are reliable and travel agencies to go from CITY to CITY>req
+we want to book CITY to CITY buses for 100 people, so suggest travel agencies>req
+we want to depart on 17th october>info
+what kind of transportation is available from CITY to CITY>req
+suggest travel agencies>req
+suggest travel booking agents>req
+suggest some good mehendi designers in CITY>req
+who are best mehendi designers in CITY>req
+we want a good mehendi designer for mehendi ceremony which includes about 100 people>req
+suggest wedding special mehendi designers>req
+list wedding special mehendi designer>req
+who are best mehendi designers for bride and her family>req
+tell us some good decorators>req
+we want decorators for house decoration>req
+we want floral decoration>req
+suggest best decorators in CITY>req
+suggest best theme decorators>req
+we want folar decoration theme , so suggest best decorators>req
+what are best cake shops in CITY>req
+we want to book wedding cake>req
+we would like to have red velvet cake>info
+we want best chocolate flavoured wedding cake, suggest shops>req
+what are popular bakeries for wedding cakes in CITY>req
+we want to book hotel rooms for around 100 guests.>req
+Suggest some budget hotels or lodges>req
+what are good budget hotels in CITY>req
+we want hotel near gachibowli area>req
+list hotels in gachibowli area>req
+Iam okay with it >pfb
+That’s fine>pfb
+It seems good>pfb
+Okay>pfb
+I will go with >pfb
+I want  it seems good>pfb
+That’s great>pfb
+ service is good>pfb
+I like>pfb
+Fix it>pfb
+It’s fine>pfb
+Alright>pfb
+No>nfb
+I don’t like it>nfb
+I hate it>nfb
+Their service is not good>nfb
+Poor ratings>nfb
+Out of budget>nfb
+Try something else>nfb
+No need>nfb
+Leave it>nfb

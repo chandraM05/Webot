@@ -1,0 +1,204 @@
+there is a occasion in my house>									binding:event
+budget is X>														binding:budget
+approximate budget is X>											binding:budget
+budget of the occasion is X>										binding:budget,event
+i want to plan a occasion in march in city>						binding:event,date,location
+i want to plan a occasion on date in city>						binding:event,date,location
+a occasion is to planed on date in city>						binding:event,date,location
+a occasion is to planed in month in city>						binding:event,date,location
+iam planning a occasion in month in city with budget around amount>	binding:event,date,location,budget
+iam planning a occasion in month in city>						binding:event,date,location
+iam planning a occasion for my daughter>						binding:event,date,location
+iam planning a occasion for my son>								binding:event
+iam planning a occasion with budget around amount				binding:event,budget
+iam planning for a hindu occasion>								binding:event,event_type
+iam planning for a muslim occasion>								binding:event,event_type
+iam planning for a christian occasion>							binding:event,event_type
+i need a plan for my sons occasion>								binding:event,event_type
+plan a occasion in around 100000>								binding:event,budget
+i need a plan for my daughter’s occasion>						binding:event,event_type
+i need to a plan for occasion>									binding:event,event_type
+iam searching for some suitable venues in the city>				binding:service,location
+what are the best venues for the event in the city>				binding:service,location
+suggest few good venues within the budget>						binding:service,budget
+venues around city>												binding:service,location
+any other venues>												binding:service
+any good venues>												binding:service
+suggest some good venues>										binding:service
+what are the venues available on data>							binding:service,date
+good rated venues in town>										binding:service,location
+suggest good music service providers>							binding:service
+any dj’s in town>												binding:service
+suggest few good dj’s>											binding:service
+are there any dj’s for the event>								binding:service
+i would like to have music facility>							binding:service
+there is a occasion in my house>									binding:event
+budget is X>														binding:budget
+approximate budget is X>											binding:budget
+budget of the occasion is X>										binding:budget,event
+i want to plan a occasion in march in city>						binding:event,date,location
+i want to plan a occasion on date in city>						binding:event,date,location
+a occasion is to planed on date in city>						binding:event,date,location
+a occasion is to planed in month in city>						binding:event,date,location
+iam planning a occasion in month in city with budget around amount>	binding:event,date,location,budget
+iam planning a occasion in month in city>						binding:event,date,location
+iam planning a occasion for my daughter>						binding:event,date,location
+iam planning a occasion for my son>								binding:event
+iam planning a occasion with budget around amount				binding:event,budget
+iam planning for a hindu occasion>								binding:event,event_type
+iam planning for a muslim occasion>								binding:event,event_type
+iam planning for a christian occasion>							binding:event,event_type
+i need a plan for my sons occasion>								binding:event,event_type
+plan a occasion in around 100000>								binding:event,budget
+i need a plan for my daughter’s occasion>						binding:event,event_type
+i need to a plan for occasion>									binding:event,event_type
+iam searching for some suitable venues in the city>				binding:service,location
+what are the best venues for the event in the city>				binding:service,location
+suggest few good venues within the budget>						binding:service,budget
+venues around city>												binding:service,location
+any other venues>												binding:service
+any good venues>												binding:service
+suggest some good venues>										binding:service
+what are the venues available on data>							binding:service,date
+good rated venues in town>										binding:service,location
+suggest good music service providers>							binding:service
+any dj’s in town>												binding:service
+suggest few good dj’s>											binding:service
+are there any dj’s for the event>								binding:service
+i would like to have music facility>							binding:service
+there is a occasion in my house>									binding:event
+budget is X>														binding:budget
+approximate budget is X>											binding:budget
+budget of the occasion is X>										binding:budget,event
+i want to plan a occasion in march in city>						binding:event,date,location
+i want to plan a occasion on date in city>						binding:event,date,location
+a occasion is to planed on date in city>						binding:event,date,location
+a occasion is to planed in month in city>						binding:event,date,location
+iam planning a occasion in month in city with budget around amount>	binding:event,date,location,budget
+iam planning a occasion in month in city>						binding:event,date,location
+iam planning a occasion for my daughter>						binding:event,date,location
+iam planning a occasion for my son>								binding:event
+iam planning a occasion with budget around amount				binding:event,budget
+iam planning for a hindu occasion>								binding:event,event_type
+iam planning for a muslim occasion>								binding:event,event_type
+iam planning for a christian occasion>							binding:event,event_type
+i need a plan for my sons occasion>								binding:event,event_type
+plan a occasion in around 100000>								binding:event,budget
+i need a plan for my daughter’s occasion>						binding:event,event_type
+i need to a plan for occasion>									binding:event,event_type
+iam searching for some suitable venues in the city>				binding:service,location
+what are the best venues for the event in the city>				binding:service,location
+suggest few good venues within the budget>						binding:service,budget
+venues around city>												binding:service,location
+any other venues>												binding:service
+any good venues>												binding:service
+suggest some good venues>										binding:service
+what are the venues available on data>							binding:service,date
+good rated venues in town>										binding:service,location
+suggest good music service providers>							binding:service
+any dj’s in town>												binding:service
+suggest few good dj’s>											binding:service
+are there any dj’s for the event>								binding:service
+i would like to have music facility>							binding:service
+there is a occasion in my house>									binding:event
+budget is X>														binding:budget
+approximate budget is X>											binding:budget
+budget of the occasion is X>										binding:budget,event
+i want to plan a occasion in march in city>						binding:event,date,location
+i want to plan a occasion on date in city>						binding:event,date,location
+a occasion is to planed on date in city>						binding:event,date,location
+a occasion is to planed in month in city>						binding:event,date,location
+iam planning a occasion in month in city with budget around amount>	binding:event,date,location,budget
+iam planning a occasion in month in city>						binding:event,date,location
+iam planning a occasion for my daughter>						binding:event,date,location
+iam planning a occasion for my son>								binding:event
+iam planning a occasion with budget around amount				binding:event,budget
+iam planning for a hindu occasion>								binding:event,event_type
+iam planning for a muslim occasion>								binding:event,event_type
+iam planning for a christian occasion>							binding:event,event_type
+i need a plan for my sons occasion>								binding:event,event_type
+plan a occasion in around 100000>								binding:event,budget
+i need a plan for my daughter’s occasion>						binding:event,event_type
+i need to a plan for occasion>									binding:event,event_type
+iam searching for some suitable venues in the city>				binding:service,location
+what are the best venues for the event in the city>				binding:service,location
+suggest few good venues within the budget>						binding:service,budget
+venues around city>												binding:service,location
+any other venues>												binding:service
+any good venues>												binding:service
+suggest some good venues>										binding:service
+what are the venues available on data>							binding:service,date
+good rated venues in town>										binding:service,location
+suggest good music service providers>							binding:service
+any dj’s in town>												binding:service
+suggest few good dj’s>											binding:service
+are there any dj’s for the event>								binding:service
+i would like to have music facility>							binding:service
+there is a occasion in my house>									binding:event
+budget is X>														binding:budget
+approximate budget is X>											binding:budget
+budget of the occasion is X>										binding:budget,event
+i want to plan a occasion in march in city>						binding:event,date,location
+i want to plan a occasion on date in city>						binding:event,date,location
+a occasion is to planed on date in city>						binding:event,date,location
+a occasion is to planed in month in city>						binding:event,date,location
+iam planning a occasion in month in city with budget around amount>	binding:event,date,location,budget
+iam planning a occasion in month in city>						binding:event,date,location
+iam planning a occasion for my daughter>						binding:event,date,location
+iam planning a occasion for my son>								binding:event
+iam planning a occasion with budget around amount				binding:event,budget
+iam planning for a hindu occasion>								binding:event,event_type
+iam planning for a muslim occasion>								binding:event,event_type
+iam planning for a christian occasion>							binding:event,event_type
+i need a plan for my sons occasion>								binding:event,event_type
+plan a occasion in around 100000>								binding:event,budget
+i need a plan for my daughter’s occasion>						binding:event,event_type
+i need to a plan for occasion>									binding:event,event_type
+iam searching for some suitable venues in the city>				binding:service,location
+what are the best venues for the event in the city>				binding:service,location
+suggest few good venues within the budget>						binding:service,budget
+venues around city>												binding:service,location
+any other venues>												binding:service
+any good venues>												binding:service
+suggest some good venues>										binding:service
+what are the venues available on data>							binding:service,date
+good rated venues in town>										binding:service,location
+suggest good music service providers>							binding:service
+any dj’s in town>												binding:service
+suggest few good dj’s>											binding:service
+are there any dj’s for the event>								binding:service
+i would like to have music facility>							binding:service
+there is a occasion in my house>									binding:event
+budget is X>														binding:budget
+approximate budget is X>											binding:budget
+budget of the occasion is X>										binding:budget,event
+i want to plan a occasion in march in city>						binding:event,date,location
+i want to plan a occasion on date in city>						binding:event,date,location
+a occasion is to planed on date in city>						binding:event,date,location
+a occasion is to planed in month in city>						binding:event,date,location
+iam planning a occasion in month in city with budget around amount>	binding:event,date,location,budget
+iam planning a occasion in month in city>						binding:event,date,location
+iam planning a occasion for my daughter>						binding:event,date,location
+iam planning a occasion for my son>								binding:event
+iam planning a occasion with budget around amount				binding:event,budget
+iam planning for a hindu occasion>								binding:event,event_type
+iam planning for a muslim occasion>								binding:event,event_type
+iam planning for a christian occasion>							binding:event,event_type
+i need a plan for my sons occasion>								binding:event,event_type
+plan a occasion in around 100000>								binding:event,budget
+i need a plan for my daughter’s occasion>						binding:event,event_type
+i need to a plan for occasion>									binding:event,event_type
+iam searching for some suitable venues in the city>				binding:service,location
+what are the best venues for the event in the city>				binding:service,location
+suggest few good venues within the budget>						binding:service,budget
+venues around city>												binding:service,location
+any other venues>												binding:service
+any good venues>												binding:service
+suggest some good venues>										binding:service
+what are the venues available on data>							binding:service,date
+good rated venues in town>										binding:service,location
+suggest good music service providers>							binding:service
+any dj’s in town>												binding:service
+suggest few good dj’s>											binding:service
+are there any dj’s for the event>								binding:service
+i would like to have music facility>							binding:service
